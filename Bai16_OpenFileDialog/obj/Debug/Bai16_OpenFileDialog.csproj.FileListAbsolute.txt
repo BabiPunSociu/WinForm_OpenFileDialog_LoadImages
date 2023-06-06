@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\bin\Debug\Bai16_OpenFileDialog.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\bin\Debug\Bai16_OpenFileDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\bin\Debug\Bai16_OpenFileDialog.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai16_OpenFileDialog\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\bin\Debug\Bai16_OpenFileDialog.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\bin\Debug\Bai16_OpenFileDialog.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\bin\Debug\Bai16_OpenFileDialog.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_OpenFileDialog_LoadImages\Bai16_OpenFileDialog\obj\Debug\Bai16_OpenFileDialog.pdb
